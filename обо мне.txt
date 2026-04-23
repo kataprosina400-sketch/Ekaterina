@@ -2,3 +2,4 @@ name: Ekaterina
 Group:9/1 is-224
 Favorite subject:MDK.05.02 Software development for information systems
 Hobby:to draw and to walk
+What I want to learn: to work with Git and GitHub
